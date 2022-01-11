@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/webcatadmin/static/css/main.c36f59f0.css",
-    "main.js": "/webcatadmin/static/js/main.0a61cd1a.js",
+    "main.js": "/webcatadmin/static/js/main.e2b4126a.js",
     "index.html": "/webcatadmin/index.html",
     "main.c36f59f0.css.map": "/webcatadmin/static/css/main.c36f59f0.css.map",
-    "main.0a61cd1a.js.map": "/webcatadmin/static/js/main.0a61cd1a.js.map"
+    "main.e2b4126a.js.map": "/webcatadmin/static/js/main.e2b4126a.js.map"
   },
   "entrypoints": [
     "static/css/main.c36f59f0.css",
-    "static/js/main.0a61cd1a.js"
+    "static/js/main.e2b4126a.js"
   ]
 }
